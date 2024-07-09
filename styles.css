@@ -1,0 +1,38 @@
+body {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-align: center;
+  margin: 0;
+  background-color: #d08ffc;
+}
+
+#container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  gap: 12px;
+}
+
+img {
+  border-radius: 12%;
+}
+
+#question {
+  font-family: 'Sacramento', cursive;
+  font-size: 48px;
+}
+
+#options {
+  margin-top: 24px;
+}
+
+button {
+  padding: 12px 24px;
+  margin: 0 12px;
+  font-size: 28px;
+  font-family: 'Sacramento', cursive;
+  background-color: #b610e0;
+  color: #ffffff;
+  border: none;
+  cursor: pointer;
+}
