@@ -21,6 +21,7 @@ img {
 #question {
   font-family: 'Sacramento', cursive;
   font-size: 48px;
+  margin-top: 64px;
 }
 
 #options {
