@@ -1,6 +1,6 @@
 function selectOption(option) {
   if (option === 'yes') {
-    document.body.style.backgroundColor = '#ff28ac';
+    document.body.style.backgroundColor = 'lightpink';
     document.getElementById('question').style.display = 'none';
     document.getElementById('poema').style.display = 'block';
     displayCatBesito();
